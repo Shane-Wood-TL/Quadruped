@@ -1,3 +1,6 @@
 [submodule "drivers/ODESC_Driver"]
 	path = drivers/ODESC_Driver
 	url = https://github.com/Shane-Wood-TL/ODESC_Driver.git
+[submodule "drivers/CAN_Manager"]
+	path = drivers/CAN_Manager
+	url = https://github.com/Shane-Wood-TL/Esp_Idf_Can_Manager.git

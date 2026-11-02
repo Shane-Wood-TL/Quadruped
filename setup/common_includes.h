@@ -23,6 +23,7 @@
 #include "driver/gpio.h"
 #include "driver/i2c_master.h"
 #include "esp_twai.h"
+#include "esp_twai_onchip.h"
 #include "driver/ledc.h"
 
 
